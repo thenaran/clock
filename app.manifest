@@ -1,0 +1,26 @@
+{
+"application":
+    {
+    "name": "time",
+    "display": "Clock",
+    "version": "0.2.141110",
+    "sdk-version": "0.20.140919",
+    "author": "Naran Inc.",
+    "description": "(BETA) Utilizes time as a standard for other applications.",
+    "url": "http://thenaran.com",
+    "requires": [],
+    "labels": ["time"],
+    "priority": "",
+    "devices": ["web"],
+    "ports": [],
+    "language": "en",
+    "country": "kr",
+    "icon_color": "rgba(64, 60, 60, 1)"
+    },
+"dependency":
+    {
+    "system": [],
+    "python": [],
+    "make": []
+    }
+}
